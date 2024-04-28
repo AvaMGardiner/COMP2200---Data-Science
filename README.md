@@ -1,1 +1,1 @@
-# COMP2200---Data-Science
+# COMP2200: Data-Science
