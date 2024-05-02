@@ -10,8 +10,8 @@ For the Data Science Portfolio and Data Science Project, I used **Python 3** for
 
 **Data Science Portfolio**
 
-The Data Science Portfolio consists of three small data analysis problems that were given to me throughout the semester. These involved writing code to analyse one or more data sets. I showed the versions in the workshops for feedback and then submitted a final version towards the end of the semester.
+The Data Science Portfolio consisted of three small data analysis problems that I was given throughout the semester. This involved me writing code to analyse one or more data sets. I presented the versions in the workshops for feedback and then submitted a final version towards the end of the semester.
 
 **Data Science Project**
 
-In groups of 3-4, we were required to find one or more datasets and were asked to develop an analysis of this data and present a report. This project included using more than one dataset, cleaning and analysing the data, training at least two different predictive models and using the model to make some conclusions. The report was to be reproducible, all methods not only documented but available as an executable archive along with the data.
+The Data Science Project was a collaborative effort in which we, a group of 3-4, were tasked with identifying one or more datasets. Our responsibility was to conduct a comprehensive analysis of the selected data and compile our findings into a report. The project necessitated the use of multiple datasets, which we meticulously cleaned and analyzed. We trained at least two different predictive models and utilized these models to draw conclusions. To ensure reproducibility, we not only documented all methods but also made them available as an executable archive along with the data. This way, anyone can replicate our work and verify our findings.
