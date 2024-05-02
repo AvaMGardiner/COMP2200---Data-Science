@@ -4,6 +4,8 @@ This folder contains the files for **Portfolio 1, 2, and 3**.
 
 ## Portfolio Part 1
 
+**Due in Week 10 but you will get your workshop mark for week 4 if you make some progress on this task.**
+
 This is the first of three small tasks that will make up your portfolio this semester. For each one, we'll provide a dataset and some questions; you will work on these questions in a notebook that will become part of your final portfolio. We will set a date for you to show your initial work on each problem during a workshop where you'll get some feedback. You'll submit the whole portfolio for marking at the end of Week 10.
 
 The first problem is based on a set of data on Steve's cycling races; you will compare data from four races recorded on a GPS device. This is an exercise in data cleaning, exploration and summarisation. You will select parts of the data, look at summary statistics and generate some plots. It is designed to allow you to explore and learn about Data Frames, the use of notebooks and practice generating a presentation around your analysis. Remember that what you write about your analysis is as important as the code you use to achieve it.
@@ -19,6 +21,8 @@ You must show some progress by doing the first few questions of your portfolio 1
 ---
 
 ## Portfolio Part 2
+
+**Due at Week 10 but you will get your workshop mark for week 7 if you make some progress on this task.**
 
 The second portfolio task asks you to work on some data about a Government sports voucher program to encourage kids to participate in organised sport. The task is mainly about providing a useful summary of the data but there is also a question about the relationship between the use of sports vouchers and the socio-economic status of the Local Government Area (LGA) they are used in.
 
@@ -41,6 +45,8 @@ Question 3 asks whether some **electorates** are over or under represented. This
 ---
 
 ## Portfolio Part 3
+
+**Due in Week 10**
 
 The final portfolio task asks you to build a model for customer churn - when mobile phone customers leave their provider. You are provided with some fake data based on data from Optus. Your task is to build a simple predictive model and evaluate different feature combinations for the task.
 
