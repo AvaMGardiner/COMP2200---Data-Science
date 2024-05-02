@@ -22,7 +22,7 @@ You must show some progress by doing the first few questions of your portfolio 1
 
 The second portfolio task asks you to work on some data about a Government sports voucher program to encourage kids to participate in organised sport. The task is mainly about providing a useful summary of the data but there is also a question about the relationship between the use of sports vouchers and the socio-economic status of the Local Government Area (LGA) they are used in.
 
-### Download the notebook and data files here:
+Download the notebook and data files here:
 
 - [Portfolio2.ipynb](Portfolio2.ipynb)
 - [sportsvouchersclaimed.csv](files/sportsvouchersclaimed.csv)
@@ -38,3 +38,14 @@ The challenge in this task is to present some useful information from the data i
 Question 3 asks whether some **electorates** are over or under represented. This should read **LGAs**. **The file above has been updated**.
 - **Question**: Are any LGAs over/under represented in their use of vouchers?
 
+---
+
+## Portfolio Part 3
+
+The final portfolio task asks you to build a model for customer churn - when mobile phone customers leave their provider. You are provided with some fake data based on data from Optus. Your task is to build a simple predictive model and evaluate different feature combinations for the task.
+
+- [Portfolio3.ipynb](Portfolio3.ipynb) - add to your main project directory
+- [MobileChurnDataDictionary.csv](files/MobileChurnDataDictionary.csv) - save in the files subdirectory
+- [MobileCustomerChurn.csv](files/MobileCustomerChurn.csv) - save in the files subdirectory
+
+Download these files and add them to your Portfolio repository:
