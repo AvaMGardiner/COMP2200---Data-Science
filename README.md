@@ -8,6 +8,8 @@ In this unit, I was introduced to the fundamental techniques and tools of data s
 
 For the Data Science Portfolio and Data Science Project, I used **Python 3** for data analysis. This included a range of modules such as **scikit-learn**, **pandas**, and **numpy** that provided additional features. These were all installed via the [**Anaconda Python distribution**](https://www.anaconda.com/). I used [**Jupyter Notebook**](https://jupyter.org/) as a way of developing and presenting the analysis results. This was included in the full Anaconda distribution.
 
+------
+
 **Data Science Portfolio**
 
 The Data Science Portfolio consisted of three small data analysis problems that I was given throughout the semester. This involved me writing code to analyse one or more data sets. I presented the versions in the workshops for feedback and then submitted a final version towards the end of the semester.
